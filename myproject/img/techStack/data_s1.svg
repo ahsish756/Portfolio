@@ -1,0 +1,14 @@
+<svg width="256px" height="255px" viewBox="0 0 256 255" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient id="ds-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop stop-color="#00C9FF" offset="0%" />
+            <stop stop-color="#92FE9D" offset="100%" />
+        </linearGradient>
+    </defs>
+    <circle cx="128" cy="128" r="120" fill="url(#ds-gradient)" />
+    <path d="M64 128 C 96 64, 160 64, 192 128 S 128 192, 64 128 Z" fill="none" stroke="#fff" stroke-width="10" />
+    <circle cx="85" cy="85" r="10" fill="#fff" />
+    <circle cx="171" cy="85" r="10" fill="#fff" />
+    <circle cx="85" cy="171" r="10" fill="#fff" />
+    <circle cx="171" cy="171" r="10" fill="#fff" />
+</svg>
